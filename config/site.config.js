@@ -49,7 +49,6 @@ module.exports = {
   // you provide. See the documentation for details.
   links: [
     { "name": "fa-brands fa-github", "link": "https://github.com/redball1017" }
-    { "name": "fa-brands fa-youtube", "link": "https://www.youtube.com/channel/UCm1I4odEP_LVN3YLWOPG3LA" }
     
     
   ],
