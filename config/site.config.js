@@ -48,7 +48,7 @@ module.exports = {
   // In the latest update, all brand icons inside font awesome is supported and the icon to render is based on the name
   // you provide. See the documentation for details.
   links: [
-    { "name": "fa-github", "link": "https://github.com/redball1017" }
+    { "name": "Github", "link": "https://github.com/redball1017" }
     
     
   ],
